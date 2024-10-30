@@ -1,0 +1,163 @@
+#ivn-login-container form .submit input,
+.ivn_registerlink,
+.ivn_post_button,
+.ivn-login,
+#main #infinite-handle span {
+font-family:arial;
+background-color: #E0E0E0;
+filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#FAFAFA,EndColorStr=#FAFAFA);
+background-image: -moz-linear-gradient(top,#FAFAFA 0,gainsboro 100%);
+background-image: -ms-linear-gradient(top,#FAFAFA 0,gainsboro 100%);
+background-image: -o-linear-gradient(top,#FAFAFA 0,gainsboro 100%);
+background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0,#FAFAFA),color-stop(100%,gainsboro));
+background-image: -webkit-linear-gradient(top,#gainsboro 100%);
+background-image: linear-gradient(to bottom,#FAFAFA 0,gainsboro 100%);
+text-shadow: 0 1px 0 #ffffff;
+display: inline-block;
+line-height: 30px;
+height: 30px;
+text-decoration: none;
+padding: 0 .91em;
+border-top: 1px solid #CCC;
+border-right: 1px solid #CCC;
+border-bottom: 1px solid #AAA;
+border-left: 1px solid #CCC;
+outline: 0;
+font-weight: bold;
+font-size: 11px;
+white-space: nowrap;
+word-wrap: normal;
+vertical-align: middle;
+cursor: pointer;
+-moz-border-radius: 2px;
+-webkit-border-radius: 2px;
+border-radius: 2px;
+color:#404040 !important;
+font-style:normal;
+moz-transition: all 0.4s ease;
+-ms-transition: all 0.4s ease;
+-o-transition: all 0.4s ease;
+-webkit-transition: all 0.4s ease;
+transition: all 0.4s ease;}
+
+
+#ivn-login-container form .submit input:hover,
+.ivn_registerlink:hover,
+.ivn_post_button:hover,
+.ivn-login:hover,
+#main #infinite-handle span:hover {
+border-color: #AAA #AAA #999;
+filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#F0F0F0,EndColorStr=#E6E6E6);
+background-image: -moz-linear-gradient(top,#F0F0F0 0,#E6E6E6 100%);
+background-image: -ms-linear-gradient(top,#F0F0F0 0,#E6E6E6 100%);
+background-image: -o-linear-gradient(top,#F0F0F0 0,#E6E6E6 100%);
+background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0,#F0F0F0),color-stop(100%,#E6E6E6));
+background-image: -webkit-linear-gradient(top,#F0F0F0 0,#E6E6E6 100%);
+background-image: linear-gradient(to bottom,#F0F0F0 0,#E6E6E6 100%);
+color:#404040 !important;
+moz-transition: all 0.4s ease;
+-ms-transition: all 0.4s ease;
+-o-transition: all 0.4s ease;
+-webkit-transition: all 0.4s ease;
+transition: all 0.4s ease;}
+
+
+#ivn-login-container form .submit input:active,
+.ivn_registerlink:active,
+.ivn_post_button:active,
+.ivn-login:active,
+#main #infinite-handle span:active {
+filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#C8C8C8,EndColorStr=#E6E6E6);
+background-image: -moz-linear-gradient(top,#C8C8C8 0,#E6E6E6 100%);
+background-image: -ms-linear-gradient(top,#C8C8C8 0,#E6E6E6 100%);
+background-image: -o-linear-gradient(top,#C8C8C8 0,#E6E6E6 100%);
+background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0,#C8C8C8),color-stop(100%,#E6E6E6));
+background-image: -webkit-linear-gradient(top,#C8C8C8 0,#E6E6E6 100%);
+background-image: linear-gradient(to bottom,#C8C8C8 0,#E6E6E6 100%);
+color:#404040;
+moz-transition: all 0.4s ease;
+-ms-transition: all 0.4s ease;
+-o-transition: all 0.4s ease;
+-webkit-transition: all 0.4s ease;
+transition: all 0.4s ease;}
+
+
+#ivn-login-container form .submit input,
+.ivn_registerlink,
+.ivn_post_button,
+.ivn-login,
+.widget_polls-widget .wp-polls input[type="button"] {
+-moz-box-shadow: 0 1px 2px rgba(0,0,0,0.25),inset 0 0 3px #86AD56;
+-ms-box-shadow: 0 1px 2px rgba(0,0,0,0.25),inset 0 0 3px #86AD56;
+-webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25),inset 0 0 3px #86AD56;
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25),inset 0 0 3px #86AD56;
+background: #99B865;
+background: -moz-linear-gradient(top, #99B865 0%, #80A04B 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #99B865), color-stop(100%, #80A04B));
+background: -webkit-linear-gradient(top, #99B865 0%, #80A04B 100%);
+background: -o-linear-gradient(top, #99B865 0%, #80A04B 100%);
+background: -ms-linear-gradient(top, #99B865 0%, #80A04B 100%);
+background: linear-gradient(top, ##80A04B 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#99B865', endColorstr='#80A04B', GradientType=0 );
+text-shadow: 0 1px 0 #6D8C46;
+color:#ffffff !important;
+border-top: 1px solid #6D8C46;
+border-right: 1px solid #6D8C46;
+border-bottom: 1px solid #6D8C46;
+border-left: 1px solid #6D8C46;}
+
+
+#ivn-login-container form .submit input:hover,
+.ivn_registerlink:hover,
+.ivn_post_button:hover,
+.ivn-login:hover,
+.widget_polls-widget .wp-polls input[type="button"]:hover {
+border-top: 1px solid #6D8C46;
+border-right: 1px solid #6D8C46;
+border-bottom: 1px solid #6D8C46;
+border-left: 1px solid #6D8C46;
+filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#86ad56,EndColorStr=#86ad56);
+background-image: -moz-linear-gradient(top,#86ad56 0,#86ad56 100%);
+background-image: -ms-linear-gradient(top,#86ad56 0,#86ad56 100%);
+background-image: -o-linear-gradient(top,#86ad56 0,#86ad56 100%);
+background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0,#86ad56),color-stop(100%,#86ad56));
+background-image: -webkit-linear-gradient(top,#86ad56 0,#86ad56 100%);
+background-image: linear-gradient(to bottom,#86ad56 0,#86ad56 100%);
+color:#ffffff !important;
+text-shadow: 0 1px 0 #6D8C46 !important;}
+
+
+#ivn-login-container form .submit input:active,
+.ivn_registerlink:active,
+.ivn_post_button:active,
+.ivn-login:active,f
+.widget_polls-widget .wp-polls input[type="button"]:active {
+border-top: 1px solid #6D8C46;
+border-right: 1px solid #6D8C46;
+border-bottom: 1px solid #6D8C46;
+border-left: 1px solid #6D8C46;
+filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#86AD56,EndColorStr=#A7D66B);
+background-image: -moz-linear-gradient(top,#86AD56 0,#A7D66B 100%);
+background-image: -ms-linear-gradient(top,#86AD56 0,#A7D66B 100%);
+background-image: -o-linear-gradient(top,#86AD56 0,#A7D66B 100%);
+background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0,#86AD56),color-stop(100%,#A7D66B));
+background-image: -webkit-linear-gradient(top,#86AD56 0,#A7D66B 100%);
+background-image: linear-gradient(to bottom,#86AD56 0,#A7D66B 100%); 
+color:#ffffff !important;
+text-shadow: 0 1px 0 #6D8C46 !important;}
+
+/*.ivn_registerlink {
+width: 210px !important;
+text-align: center;
+font-size: 17px;
+height: 37px;
+line-height: 37px;
+margin: 4px 0 0 0;
+margin-right:35px \0/;}*/
+
+.ivn-link {
+font-size:11px;
+color:#86AD56;}
+
+.clickable-image{
+cursor: pointer;}
